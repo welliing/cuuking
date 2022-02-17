@@ -1,8 +1,8 @@
-## v2ray-heroku
+## w2ray-heroku
 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/dadawooo/cuuking.git)
 
-### heroku上部署v2ray
-- [x] 支持VMess和VLESS两种协议
+### heroku上部署w2ray
+- [x] 支持wMess和wLESS两种协议
 - [x] 支持自定义websocket路径
 - [x] 伪装首页（3D元素周期表）
 - [x] HTML5测速
